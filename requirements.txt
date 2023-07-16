@@ -1,2 +1,2 @@
 Flask
-gunicorn 讓 Heroku 啟動專案
+gunicorn
