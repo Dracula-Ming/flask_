@@ -9,7 +9,7 @@ def home():
 
 @app.route('/test')  # 代表我們要處理的網站路徑
 def test():
-    return "This is Test2"
+    return "This is Test8"
 
 
 if __name__ == "__main__":  # 如果以主程式(__main__)執行
