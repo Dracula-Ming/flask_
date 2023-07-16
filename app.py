@@ -7,9 +7,9 @@ app = Flask(__name__)  # __name__ 代表目前執行的模組
 def home():
     return "I Love Even"
 
-@app.route('/test') # 代表我們要處理的網站路徑
+@app.route('/test')  # 代表我們要處理的網站路徑
 def test():
-    return "This is Test"
+    return "This is Test2"
 
 
 if __name__ == "__main__":  # 如果以主程式(__main__)執行
